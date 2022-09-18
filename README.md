@@ -44,19 +44,7 @@ For now I am using GoogleAddPrice monogram. Monograms sometimes doesnt mean anyt
 ### Libraries
 
 
-nltk
-
-numpy
-
-pandas 
-
-json
-
-spacy
-
-textstat
-
-sklearn
+nltk, numpy, pandas, json, spacy, textstat, sklearn
 
 
 
