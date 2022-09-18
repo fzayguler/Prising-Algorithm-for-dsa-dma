@@ -12,7 +12,7 @@ The price is calculated by considering 3 factors:
 
 ### The Procedure
 
-First the text is tokenized, cleaned, and lemmatization applied by using spaCy library. Then the text is splitted by pattern by using regex. In the original text every article stats wirh '(', a number and ')'. This function splits the text by these patterns for the final prising. Google Ads prices also known as CPC(click per count) extracted in a seperate code using an api and saved as a json file. Textstat library (Flesch–Reading-Ease) is used to get a score to indicate how difficult a passage in English is to understand.
+First the text is tokenized, cleaned, and lemmatization applied by using spaCy library. Then the text is splitted by pattern by using regex. In the original text every article stats wirh '(', a number and ')'. This function splits the text by these patterns for the final prising. Google Ads prices also known as CPC(click per count) extracted in a seperate code (adwords.py)using an api and saved as a json file. Textstat library (Flesch–Reading-Ease) is used to get a score to indicate how difficult a passage in English is to understand.
 
 The idf values calculated by using sklearn TfidfVectorizer. I tried a number of formulas before starting using sklearn. For instance:
 
