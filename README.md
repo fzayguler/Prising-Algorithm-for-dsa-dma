@@ -45,11 +45,17 @@ For now I am using GoogleAddPrice monogram. Monograms sometimes doesnt mean anyt
 
 
 nltk
+
 numpy
+
 pandas 
+
 json
+
 spacy
+
 textstat
+
 sklearn
 
 
