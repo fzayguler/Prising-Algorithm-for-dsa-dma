@@ -1,6 +1,6 @@
 # Prising-Algorithm-for-dma-dsa
 
-This code generates a price for every article in DSA(Digital Service Act) and DMA(Digital Market Act)
+This code generates a price for every article in DSA(Digital Service Act) and DMA(Digital Market Act) regulations
 
 The price is calculated by considering 3 factors
 
@@ -29,8 +29,16 @@ average used words ('member') idf is 2.6770965609079154
 
 less used words ('charter') idf is 4.979681653901961
 
-so the unique words have a better score but I had to amplify it.
+so the unique words have a better score but I had to amplify.
 
+
+Finally  prising of each article is calculated bu this formula
 
 
 Price of article   = sum (GoogleAddPrice (ngram) x if/idf(monogram)) + TextReadibility x cte
+
+For now I am using GoogleAddPrice monogram. Monograms sometimes doesnt mean anything for the Google Ads. The problem is Google Ads have trouble finding one word keywords because it is not common. I will try implementing the code for ngrams in the furure.
+
+
+
+
