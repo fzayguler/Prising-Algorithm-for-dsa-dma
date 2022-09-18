@@ -31,6 +31,8 @@ less used words ('charter') idf is 4.979681653901961
 
 so the unique words have a better score but I had to amplify.
 
+### Prising Function
+
 
 Finally  prising of each article is calculated bu this formula
 
