@@ -2,7 +2,7 @@
 
 This code generates a price for every article in DSA(Digital Service Act) and DMA(Digital Market Act) regulations
 
-The price is calculated by considering 3 factors
+The price is calculated by considering 3 factors:
 
 1- Uniqness of the word used in the text (calculated by tf/idf -term frequency/inverse-term-frequency)
 
@@ -34,7 +34,7 @@ so the unique words have a better score but I had to amplify.
 ### Prising Function
 
 
-Finally  prising of each article is calculated bu this formula
+Finally  prising of each article is calculated by this formula:
 
 
 Price of article   = sum (GoogleAddPrice (ngram) x if/idf(monogram)) + TextReadibility x cte
