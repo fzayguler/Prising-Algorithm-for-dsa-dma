@@ -41,6 +41,17 @@ Price of article   = sum (GoogleAddPrice (ngram) x if/idf(monogram)) + TextReadi
 
 For now I am using GoogleAddPrice monogram. Monograms sometimes doesnt mean anything for the Google Ads. The problem is Google Ads have trouble finding one word keywords because it is not common. I will try implementing the code for ngrams in the furure.
 
+### Libraries
+
+
+nltk
+numpy
+pandas 
+json
+spacy
+textstat
+sklearn
+
 
 
 
