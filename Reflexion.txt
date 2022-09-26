@@ -1,0 +1,13 @@
+Reflexion
+
+The pricing algorithm for DSA/DMA is written for a project that targets the shady process of lobbying. 
+
+With a group of designers and artists, we are working on a non existed compony that has a business model of selling the Digital Service Act and the Digital Market Act, article by article. 
+The company’s goal is to turn legislative data into financial assets while allowing companies and individuals to own the law and modify it to their advantage.
+
+The work is in progress at the moment. The group members are:
+
+Funda Zeynep Aygüler - text analysis, pricing algorithm
+Katia Sophia Ditzlern - creative writing
+Elena Falomo - web design
+Guillaume Slizewicz - graphic design
